@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nik1138
 - 🌱 I’m currently working fullstack, frontend mostly
 - 📫 How to reach me nik1138@mail.ru
-- Бот моральной поддержки https://t.me/this_is_radost_bot
+- https://помощь-бесплатно.рф/ - мой небольшой социальный проект в разработке
 - Канал с бесплатными курсами по фронтенду https://t.me/boringJSlearn
 
 <!---
